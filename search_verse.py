@@ -73,7 +73,7 @@ if __name__ == '__main__':
     
     parser.add_argument("English",
                         type=str,
-                        default = "Y",
+                        default = "N",
                         nargs = '?',
                         help="顯示英文(Y) or 不顯示英文(N) ")
     
